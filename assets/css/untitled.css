@@ -1,0 +1,13 @@
+.text-muted {
+  --bs-text-opacity: 1;
+  color: #000000 !important;
+}
+
+.fixed-top {
+  position: relative;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
